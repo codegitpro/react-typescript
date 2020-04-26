@@ -1,0 +1,12 @@
+{
+    "css.validate": false,
+    "stylelint.enable": true,
+    "typescript.tsdk": "node_modules/typescript/lib",
+    "files.exclude": {
+        "**/._*": true,
+        "**/*.VC.db*": true,
+        "node_modules": true,
+        "app/node_modules": true,
+        "dist": true
+    }
+}
